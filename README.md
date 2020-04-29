@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.com/Evgengrmit/lab04.svg?branch=master)](https://travis-ci.com/Evgengrmit/lab04)
 [![Build Status](https://travis-ci.org/Evgengrmit/lab04.svg?branch=master)](https://travis-ci.org/Evgengrmit/lab04)
+[![Build status](https://ci.appveyor.com/api/projects/status/h3r5x12rupk4rnoe?svg=true)](https://ci.appveyor.com/project/Evgengrmit/lab04)
+
 ## Laboratory work IV
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
